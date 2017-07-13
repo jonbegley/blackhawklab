@@ -1,4 +1,4 @@
-# 1 Introduction to BlackhawkLab
+# BlackhawkLab - Cloud based open-source solution
 ## 1.1	Background
 Every day cyber security firms are constantly having conversations with their customers informing them they have been affected by a data breach. Their customers do not have the budget for tools and software required to remediate the breach successfully. There internal IT (Information Technology) teams don’t have the technical ability to drive software and tooling, even if software and tooling was deployed.
 Data Breach: an incident which sensitive, protected or confidential information is released, viewed, stolen, or used by an individual who is not authorized to do so.
